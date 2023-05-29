@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1.2 (64-bit)
+# SW Build 3605665 on Fri Aug  5 22:53:37 MDT 2022
+# IP Build 3603185 on Sat Aug  6 04:07:44 MDT 2022
+# Start of session at: Wed May  3 11:25:46 2023
+# Process ID: 3204
+# Current directory: C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2/Project.v2.runs/impl_1
+# Command line: vivado.exe -log image.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source image.tcl -notrace
+# Log file: C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2/Project.v2.runs/impl_1/image.vdi
+# Journal file: C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2/Project.v2.runs/impl_1\vivado.jou
+# Running On: Jesus_Sandoval, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16889 MB
+#-----------------------------------------------------------
+source image.tcl -notrace
