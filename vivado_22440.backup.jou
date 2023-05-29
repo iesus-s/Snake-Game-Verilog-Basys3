@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1.2 (64-bit)
+# SW Build 3605665 on Fri Aug  5 22:53:37 MDT 2022
+# IP Build 3603185 on Sat Aug  6 04:07:44 MDT 2022
+# Start of session at: Fri May 12 07:54:29 2023
+# Process ID: 22440
+# Current directory: C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent34956 C:\Users\Jabee\OneDrive\Desktop\computer_logic\Final_Project\Project.v2\Project.v2.xpr
+# Log file: C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2/vivado.log
+# Journal file: C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2\vivado.jou
+# Running On: Jesus_Sandoval, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16889 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Jabee/OneDrive/Desktop/computer_logic/Final_Project/Project.v2/Project.v2.xpr
+update_compile_order -fileset sources_1
